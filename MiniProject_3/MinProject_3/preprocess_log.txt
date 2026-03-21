@@ -1,0 +1,160 @@
+Initializing Pose Landmarker...
+Pose Landmarker initialized.
+Starting landmark extraction...
+Asanas found: ['balasana', 'bhujangasana', 'padmasana', 'parvatasana', 'tadasana', 'trikonasana', 'vrikshasana']
+Asanas:   0%|                                            | 0/7 [00:00<?, ?it/s]Processing asana: balasana
+Processing avg for balasana
+Videos found: 15
+
+balasana - avg:   0%|                                    | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\balasana\avg\1.mp4
+Extracted 38 frames
+
+balasana - avg: 100%|████████████████████████████| 1/1 [00:11<00:00, 11.25s/it][A
+                                                                               [AProcessing good for balasana
+Videos found: 23
+
+balasana - good:   0%|                                   | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\balasana\good\20260217_165415.mp4
+Extracted 106 frames
+
+balasana - good: 100%|███████████████████████████| 1/1 [00:29<00:00, 29.39s/it][A
+                                                                               [AProcessing poor for balasana
+Videos found: 21
+
+balasana - poor:   0%|                                   | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\balasana\poor\2.mp4
+Extracted 22 frames
+
+balasana - poor: 100%|███████████████████████████| 1/1 [00:06<00:00,  6.47s/it][A
+                                                                               [AAsanas:  14%|█████▏                              | 1/7 [00:47<04:42, 47.11s/it]Processing asana: bhujangasana
+Processing avg for bhujangasana
+Videos found: 28
+
+bhujangasana - avg:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\bhujangasana\avg\2.mp4
+Extracted 24 frames
+
+bhujangasana - avg: 100%|████████████████████████| 1/1 [00:12<00:00, 12.20s/it][A
+                                                                               [AProcessing good for bhujangasana
+Videos found: 19
+
+bhujangasana - good:   0%|                               | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\bhujangasana\good\20260217_171524.mp4
+Extracted 151 frames
+
+bhujangasana - good: 100%|███████████████████████| 1/1 [01:17<00:00, 77.96s/it][A
+                                                                               [AProcessing poor for bhujangasana
+Videos found: 16
+
+bhujangasana - poor:   0%|                               | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\bhujangasana\poor\2.mp4
+Extracted 23 frames
+
+bhujangasana - poor: 100%|███████████████████████| 1/1 [00:08<00:00,  8.59s/it][A
+                                                                               [AAsanas:  29%|██████████▎                         | 2/7 [02:26<06:28, 77.72s/it]Processing asana: padmasana
+Processing avg for padmasana
+Videos found: 19
+
+padmasana - avg:   0%|                                   | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\padmasana\avg\1 (1).mp4
+Extracted 65 frames
+
+padmasana - avg: 100%|███████████████████████████| 1/1 [00:23<00:00, 23.85s/it][A
+                                                                               [AProcessing good for padmasana
+Videos found: 25
+
+padmasana - good:   0%|                                  | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\padmasana\good\2.mp4
+Extracted 83 frames
+
+padmasana - good: 100%|██████████████████████████| 1/1 [00:22<00:00, 22.49s/it][A
+                                                                               [AProcessing poor for padmasana
+Videos found: 30
+
+padmasana - poor:   0%|                                  | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\padmasana\poor\1.mp4
+Extracted 13 frames
+
+padmasana - poor: 100%|██████████████████████████| 1/1 [00:03<00:00,  3.86s/it][A
+                                                                               [AAsanas:  43%|███████████████▍                    | 3/7 [03:16<04:20, 65.17s/it]Processing asana: parvatasana
+Processing avg for parvatasana
+Videos found: 32
+
+parvatasana - avg:   0%|                                 | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\parvatasana\avg\2.mp4
+Extracted 34 frames
+
+parvatasana - avg: 100%|█████████████████████████| 1/1 [00:08<00:00,  8.57s/it][A
+                                                                               [AProcessing good for parvatasana
+Videos found: 15
+
+parvatasana - good:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\parvatasana\good\20260221_081340.mp4
+Extracted 187 frames
+
+parvatasana - good: 100%|████████████████████████| 1/1 [00:58<00:00, 58.99s/it][A
+                                                                               [AProcessing poor for parvatasana
+Videos found: 11
+
+parvatasana - poor:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\parvatasana\poor\2.mp4
+Extracted 28 frames
+
+parvatasana - poor: 100%|████████████████████████| 1/1 [00:07<00:00,  7.27s/it][A
+                                                                               [AAsanas:  57%|████████████████████▌               | 4/7 [04:31<03:27, 69.00s/it]Processing asana: tadasana
+Processing avg for tadasana
+Videos found: 30
+
+tadasana - avg:   0%|                                    | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\tadasana\avg\1 (1).mp4
+Extracted 52 frames
+
+tadasana - avg: 100%|████████████████████████████| 1/1 [00:15<00:00, 15.28s/it][A
+                                                                               [AProcessing good for tadasana
+Videos found: 27
+
+tadasana - good:   0%|                                   | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\tadasana\good\2.mp4
+Extracted 157 frames
+
+tadasana - good: 100%|███████████████████████████| 1/1 [00:51<00:00, 51.87s/it][A
+                                                                               [AProcessing poor for tadasana
+Videos found: 20
+
+tadasana - poor:   0%|                                   | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\tadasana\poor\20260222_164608.mp4
+Extracted 78 frames
+
+tadasana - poor: 100%|███████████████████████████| 1/1 [00:28<00:00, 28.05s/it][A
+                                                                               [AAsanas:  71%|█████████████████████████▋          | 5/7 [06:06<02:36, 78.46s/it]Processing asana: trikonasana
+Processing avg for trikonasana
+Videos found: 19
+
+trikonasana - avg:   0%|                                 | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\trikonasana\avg\1.mp4
+Extracted 32 frames
+
+trikonasana - avg: 100%|█████████████████████████| 1/1 [00:13<00:00, 13.05s/it][A
+                                                                               [AProcessing good for trikonasana
+Videos found: 19
+
+trikonasana - good:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\trikonasana\good\1.mp4
+Extracted 250 frames
+
+trikonasana - good: 100%|████████████████████████| 1/1 [01:18<00:00, 78.73s/it][A
+                                                                               [AProcessing poor for trikonasana
+Videos found: 26
+
+trikonasana - poor:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\trikonasana\poor\1.mp4
+Extracted 28 frames
+
+trikonasana - poor: 100%|████████████████████████| 1/1 [00:09<00:00,  9.56s/it][A
+                                                                               [AAsanas:  86%|██████████████████████████████▊     | 6/7 [07:47<01:26, 86.25s/it]Processing asana: vrikshasana
+Processing avg for vrikshasana
+Videos found: 28
+
+vrikshasana - avg:   0%|                                 | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\vrikshasana\avg\1.mp4
+Extracted 78 frames
+
+vrikshasana - avg: 100%|█████████████████████████| 1/1 [00:23<00:00, 23.72s/it][A
+                                                                               [AProcessing good for vrikshasana
+Videos found: 13
+
+vrikshasana - good:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\vrikshasana\good\1 (1).mp4
+Extracted 20 frames
+
+vrikshasana - good: 100%|████████████████████████| 1/1 [00:05<00:00,  5.91s/it][A
+                                                                               [AProcessing poor for vrikshasana
+Videos found: 25
+
+vrikshasana - poor:   0%|                                | 0/1 [00:00<?, ?it/s][AExtracting from: Dataset\vrikshasana\poor\20260218_151944.mp4
+Extracted 71 frames
+
+vrikshasana - poor: 100%|████████████████████████| 1/1 [00:24<00:00, 24.76s/it][A
+                                                                               [AAsanas: 100%|████████████████████████████████████| 7/7 [08:42<00:00, 75.86s/it]Asanas: 100%|████████████████████████████████████| 7/7 [08:42<00:00, 74.63s/it]
+Extraction complete. Data saved to processed_data.pkl
